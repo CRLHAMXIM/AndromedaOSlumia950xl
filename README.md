@@ -1,3 +1,5 @@
+# PICTURE
+![photo_2024-11-17_16-01-37](https://github.com/user-attachments/assets/69696ec2-274b-4381-b951-77e9509a18b0)
 # ANDROMEDAOSLUMIA950XL
 - First of all, this is the truth, not something I'm joking about.
 # main problem
