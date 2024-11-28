@@ -106,4 +106,7 @@ Usually I use this solution to backup my phone.
 - 3.Done, you have restored your old system as it was exactly.
 # .
 - I will not give the AndromedaOS lumia 950xl ffu file because there are still many errors like I said in the first paragraph above.
+# Error
+![photo_2024-11-28_13-05-29](https://github.com/user-attachments/assets/42b24731-65a1-44ba-9304-cfe1238c175f)
+![photo_2024-11-28_13-05-32](https://github.com/user-attachments/assets/90ec2f45-b0b8-4e03-bf17-8bfa34432934)
 
