@@ -109,4 +109,4 @@ Usually I use this solution to backup my phone.
 # Error
 ![photo_2024-11-28_13-05-29](https://github.com/user-attachments/assets/42b24731-65a1-44ba-9304-cfe1238c175f)
 ![photo_2024-11-28_13-05-32](https://github.com/user-attachments/assets/90ec2f45-b0b8-4e03-bf17-8bfa34432934)
-
+- when you let it run AndromedaOS of Lumia 950(Talkman) it will damage uefi and it will not be able to flash because it has changed the model number of the device even though it can still access flashapp
